@@ -1,0 +1,2 @@
+# Neurome
+Neurome = NeuralGenome. The DNA of neural networks! - IT describes neurons &amp;amp; Pathways the same way DNA describes Proteins. Neurome It Grows, Evolves, Devolves, Repairs itself, Changes, and finally reaches perfection. A Genetic Code that describes the current state connections and properties of a macro-scale neural network. Can be made of Micro-scale Sub-units! Similar to Logic gates &amp;amp; primitive structures in Logic Synthesis. Only this one's is non-deterministic! Consciousness emerges from the Void.
